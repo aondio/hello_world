@@ -1,0 +1,39 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "it-IT": {
+          "examplePhrases": [],
+          "keywords": [],
+          "name": "Hello World"
+        },
+        "de-DE": {
+          "examplePhrases": [],
+          "keywords": [],
+          "name": "Hello World"
+        },
+        "en-US": {
+          "examplePhrases": [],
+          "keywords": [],
+          "name": "Hello World"
+        },
+        "fr-FR": {
+          "examplePhrases": [],
+          "keywords": [],
+          "name": "Hello World"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/eu-west-1_aws-serverless-repository-alexaskillskitnodejsfact-25IPGEZDER3Q"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
